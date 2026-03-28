@@ -2,6 +2,7 @@
 Analyzing coffee shop sales data using SQL, focusing on extracting key insights and processing the data for strategic and decision-making on how to improve the sales and increase revenue.
 
 # Problem Statement:
+Analyze data of the company over the 6 month period to produce insights.
 The Bright Coffee shop revenue and product performance has decrease within the 6 months period. 
 
 # Objective:
